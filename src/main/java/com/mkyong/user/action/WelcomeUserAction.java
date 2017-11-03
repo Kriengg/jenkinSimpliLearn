@@ -3,6 +3,7 @@ package com.mkyong.user.action;
 public class WelcomeUserAction{
 
 	private String username;
+	private String pmdFail;
 	 
 	public String getUsername() {
 		return username;
